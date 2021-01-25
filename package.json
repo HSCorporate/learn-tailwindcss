@@ -1,0 +1,23 @@
+{
+  "name": "learn-tailwindcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwindcss build ./style/styles.css -o ./public/css/tailwind.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HSCorporate/learn-tailwindcss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HSCorporate/learn-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/HSCorporate/learn-tailwindcss#readme",
+  "dependencies": {
+    "tailwindcss": "^2.0.2"
+  }
+}
